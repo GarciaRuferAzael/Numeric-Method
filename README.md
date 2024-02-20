@@ -1,2 +1,3 @@
 Metodi Numerici
 Python
+JupyterLab
